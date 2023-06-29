@@ -1,2 +1,1 @@
-# week04
- 
+Week 04 project for frent-end web developer. Files include an HTML file with a bad dad joke and a terrible pink background, a CSS file that needs some work but contriubutes absolutely nothing, and a JavaScript file with loads of codes from a noob like myself. 
